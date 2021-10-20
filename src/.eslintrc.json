@@ -1,11 +1,10 @@
 {
     "env": {
-        "browser": true,
-        "es2015": true
+        "browser": true
     },
     "extends": "plugin:vue/essential",
     "parserOptions": {
-        "ecmaVersion": 13,
+        "ecmaVersion": 11,
         "sourceType": "module"
     },
     "plugins": [
